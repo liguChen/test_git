@@ -2,4 +2,4 @@
 
 - fix-B
 - fix-
-- faeture-C
+- feaature-C
